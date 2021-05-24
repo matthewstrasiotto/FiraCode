@@ -125715,6 +125715,67 @@ width = 2400;
 }
 );
 },
+
+
+{
+glyphname = _part.percent_bookmark_left;
+lastChange = "2021-05-24 04:07:27 +0000";
+layers = (
+{
+components = (
+{
+name = _part.circle;
+transform = "{0.182, 0, 0, 0.182, 352, 640}";
+},
+{
+name = _part.circle;
+},
+{
+name = _part.circle;
+transform = "{0.182, 0, 0, 0.182, 352, 359}";
+}
+);
+guideLines = (
+{
+position = "{1080, 625}";
+},
+{
+position = "{-22, 365}";
+},
+{
+position = "{-19, 884}";
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = "{1, 1}";
+target = "{1, 0}";
+type = Stem;
+}
+);
+layerId = "B67F0F2D-EC95-4CB8-966E-23AE86958A69";
+paths = (
+{
+closed = 1;
+nodes = (
+"609 365 LINE",
+"632 365 LINE",
+"632 884 LINE",
+"609 884 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "4B7A3BAF-EAD8-4024-9BEA-BB1DE86CFCFA";
+width = 1200;
+}
+);
+},
+
+
 {
 color = 3;
 export = 0;
