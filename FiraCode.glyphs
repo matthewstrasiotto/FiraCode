@@ -1,11 +1,12 @@
 {
 .appVersion = "3058";
 DisplayStrings = (
-/less_bar_greater.liga,
-/_part.percent_bookend_left,
-/_part.percent_bookend_right,
-/percent_less_greater_percent.liga,
-/percent_greater_percent.liga
+"/less_bar_greater.liga",
+"/_part.percent_bookend_left",
+"/_part.percent_bookend_right",
+"/percent_less_greater_percent.liga",
+"/percent_greater_percent.liga",
+"/percent_i_n_percent.liga"
 );
 classes = (
 {
@@ -198,7 +199,7 @@ name = case;
 },
 {
 automatic = 1;
-code = "lookupflag IgnoreMarks;\012sub bar bar bar greater by bar_bar_bar_greater.liga;\012sub less bar bar bar by less_bar_bar_bar.liga;\012sub less exclam hyphen hyphen by less_exclam_hyphen_hyphen.liga;\012sub percent less greater percent by percent_less_greater_percent.liga;\012sub asciitilde asciitilde greater by asciitilde_asciitilde_greater.liga;\012sub asterisk asterisk asterisk by asterisk_asterisk_asterisk.liga;\012sub bar bar bar by bar_bar_bar.liga;\012sub bar bar greater by bar_bar_greater.liga;\012sub colon colon colon by colon_colon_colon.liga;\012sub colon colon equal by colon_colon_equal.liga;\012sub equal equal equal by equal_equal_equal.liga;\012sub exclam equal equal by exclam_equal_equal.liga;\012sub exclam exclam period by exclam_exclam_period.liga;\012sub greater greater greater by greater_greater_greater.liga;\012sub less asciitilde asciitilde by less_asciitilde_asciitilde.liga;\012sub less asciitilde greater by less_asciitilde_greater.liga;\012sub less asterisk greater by less_asterisk_greater.liga;\012sub less bar bar by less_bar_bar.liga;\012sub less bar greater by less_bar_greater.liga;\012sub less dollar greater by less_dollar_greater.liga;\012sub less less less by less_less_less.liga;\012sub less plus greater by less_plus_greater.liga;\012sub less slash greater by less_slash_greater.liga;\012sub numbersign underscore parenleft by numbersign_underscore_parenleft.liga;\012sub percent greater percent by percent_greater_percent.liga;\012sub period period equal by period_period_equal.liga;\012sub period period less by period_period_less.liga;\012sub period period period by period_period_period.liga;\012sub plus plus plus by plus_plus_plus.liga;\012sub slash slash slash by slash_slash_slash.liga;\012sub w w w by w_w_w.liga;\012sub ampersand ampersand by ampersand_ampersand.liga;\012sub asciicircum equal by asciicircum_equal.liga;\012sub asciitilde asciitilde by asciitilde_asciitilde.liga;\012sub asciitilde at by asciitilde_at.liga;\012sub asciitilde greater by asciitilde_greater.liga;\012sub asciitilde hyphen by asciitilde_hyphen.liga;\012sub asterisk asterisk by asterisk_asterisk.liga;\012sub asterisk greater by asterisk_greater.liga;\012sub asterisk slash by asterisk_slash.liga;\012sub backslash slash by backslash_slash.liga;\012sub bar bar by bar_bar.liga;\012sub bar braceright by bar_braceright.liga;\012sub bar bracketright by bar_bracketright.liga;\012sub bar greater by bar_greater.liga;\012sub braceleft bar by braceleft_bar.liga;\012sub bracketleft bar by bracketleft_bar.liga;\012sub bracketright numbersign by bracketright_numbersign.liga;\012sub colon colon by colon_colon.liga;\012sub colon equal by colon_equal.liga;\012sub dollar greater by dollar_greater.liga;\012sub equal equal by equal_equal.liga;\012sub exclam equal by exclam_equal.liga;\012sub exclam exclam by exclam_exclam.liga;\012sub greater equal by greater_equal.liga;\012sub greater greater by greater_greater.liga;\012sub hyphen asciitilde by hyphen_asciitilde.liga;\012sub hyphen hyphen by hyphen_hyphen.liga;\012sub less asciitilde by less_asciitilde.liga;\012sub less asterisk by less_asterisk.liga;\012sub less bar by less_bar.liga;\012sub less dollar by less_dollar.liga;\012sub less equal by less_equal.liga;\012sub less greater by less_greater.liga;\012sub less less by less_less.liga;\012sub less plus by less_plus.liga;\012sub less slash by less_slash.liga;\012sub numbersign braceleft by numbersign_braceleft.liga;\012sub numbersign bracketleft by numbersign_bracketleft.liga;\012sub numbersign colon by numbersign_colon.liga;\012sub numbersign equal by numbersign_equal.liga;\012sub numbersign exclam by numbersign_exclam.liga;\012sub numbersign parenleft by numbersign_parenleft.liga;\012sub numbersign question by numbersign_question.liga;\012sub numbersign underscore by numbersign_underscore.liga;\012sub percent percent by percent_percent.liga;\012sub period equal by period_equal.liga;\012sub period period by period_period.liga;\012sub period question by period_question.liga;\012sub plus greater by plus_greater.liga;\012sub plus plus by plus_plus.liga;\012sub question equal by question_equal.liga;\012sub question period by question_period.liga;\012sub question question by question_question.liga;\012sub semicolon semicolon by semicolon_semicolon.liga;\012sub slash asterisk by slash_asterisk.liga;\012sub slash backslash by slash_backslash.liga;\012sub slash greater by slash_greater.liga;\012sub slash slash by slash_slash.liga;\012";
+code = "lookupflag IgnoreMarks;\012sub bar bar bar greater by bar_bar_bar_greater.liga;\012sub less bar bar bar by less_bar_bar_bar.liga;\012sub less exclam hyphen hyphen by less_exclam_hyphen_hyphen.liga;\012sub percent i n percent by percent_i_n_percent.liga;\012sub percent less greater percent by percent_less_greater_percent.liga;\012sub asciitilde asciitilde greater by asciitilde_asciitilde_greater.liga;\012sub asterisk asterisk asterisk by asterisk_asterisk_asterisk.liga;\012sub bar bar bar by bar_bar_bar.liga;\012sub bar bar greater by bar_bar_greater.liga;\012sub colon colon colon by colon_colon_colon.liga;\012sub colon colon equal by colon_colon_equal.liga;\012sub equal equal equal by equal_equal_equal.liga;\012sub exclam equal equal by exclam_equal_equal.liga;\012sub exclam exclam period by exclam_exclam_period.liga;\012sub greater greater greater by greater_greater_greater.liga;\012sub less asciitilde asciitilde by less_asciitilde_asciitilde.liga;\012sub less asciitilde greater by less_asciitilde_greater.liga;\012sub less asterisk greater by less_asterisk_greater.liga;\012sub less bar bar by less_bar_bar.liga;\012sub less bar greater by less_bar_greater.liga;\012sub less dollar greater by less_dollar_greater.liga;\012sub less less less by less_less_less.liga;\012sub less plus greater by less_plus_greater.liga;\012sub less slash greater by less_slash_greater.liga;\012sub numbersign underscore parenleft by numbersign_underscore_parenleft.liga;\012sub percent greater percent by percent_greater_percent.liga;\012sub period period equal by period_period_equal.liga;\012sub period period less by period_period_less.liga;\012sub period period period by period_period_period.liga;\012sub plus plus plus by plus_plus_plus.liga;\012sub slash slash slash by slash_slash_slash.liga;\012sub w w w by w_w_w.liga;\012sub ampersand ampersand by ampersand_ampersand.liga;\012sub asciicircum equal by asciicircum_equal.liga;\012sub asciitilde asciitilde by asciitilde_asciitilde.liga;\012sub asciitilde at by asciitilde_at.liga;\012sub asciitilde greater by asciitilde_greater.liga;\012sub asciitilde hyphen by asciitilde_hyphen.liga;\012sub asterisk asterisk by asterisk_asterisk.liga;\012sub asterisk greater by asterisk_greater.liga;\012sub asterisk slash by asterisk_slash.liga;\012sub backslash slash by backslash_slash.liga;\012sub bar bar by bar_bar.liga;\012sub bar braceright by bar_braceright.liga;\012sub bar bracketright by bar_bracketright.liga;\012sub bar greater by bar_greater.liga;\012sub braceleft bar by braceleft_bar.liga;\012sub bracketleft bar by bracketleft_bar.liga;\012sub bracketright numbersign by bracketright_numbersign.liga;\012sub colon colon by colon_colon.liga;\012sub colon equal by colon_equal.liga;\012sub dollar greater by dollar_greater.liga;\012sub equal equal by equal_equal.liga;\012sub exclam equal by exclam_equal.liga;\012sub exclam exclam by exclam_exclam.liga;\012sub greater equal by greater_equal.liga;\012sub greater greater by greater_greater.liga;\012sub hyphen asciitilde by hyphen_asciitilde.liga;\012sub hyphen hyphen by hyphen_hyphen.liga;\012sub less asciitilde by less_asciitilde.liga;\012sub less asterisk by less_asterisk.liga;\012sub less bar by less_bar.liga;\012sub less dollar by less_dollar.liga;\012sub less equal by less_equal.liga;\012sub less greater by less_greater.liga;\012sub less less by less_less.liga;\012sub less plus by less_plus.liga;\012sub less slash by less_slash.liga;\012sub numbersign braceleft by numbersign_braceleft.liga;\012sub numbersign bracketleft by numbersign_bracketleft.liga;\012sub numbersign colon by numbersign_colon.liga;\012sub numbersign equal by numbersign_equal.liga;\012sub numbersign exclam by numbersign_exclam.liga;\012sub numbersign parenleft by numbersign_parenleft.liga;\012sub numbersign question by numbersign_question.liga;\012sub numbersign underscore by numbersign_underscore.liga;\012sub percent percent by percent_percent.liga;\012sub period equal by period_equal.liga;\012sub period period by period_period.liga;\012sub period question by period_question.liga;\012sub plus greater by plus_greater.liga;\012sub plus plus by plus_plus.liga;\012sub question equal by question_equal.liga;\012sub question period by question_period.liga;\012sub question question by question_question.liga;\012sub semicolon semicolon by semicolon_semicolon.liga;\012sub slash asterisk by slash_asterisk.liga;\012sub slash backslash by slash_backslash.liga;\012sub slash greater by slash_greater.liga;\012sub slash slash by slash_slash.liga;\012";
 disabled = 1;
 name = liga;
 },
@@ -75427,6 +75428,55 @@ width = 1200;
 );
 },
 {
+color = 3;
+glyphname = percent_i_n_percent.liga;
+lastChange = "2021-05-25 15:41:05 +0000";
+layers = (
+{
+components = (
+{
+name = _part.percent_bookend_left;
+},
+{
+name = i;
+transform = "{1, 0, 0, 1, 1200, 0}";
+},
+{
+name = n;
+transform = "{1, 0, 0, 1, 2400, 0}";
+},
+{
+name = _part.percent_bookend_right;
+transform = "{1, 0, 0, 1, 3600, 0}";
+}
+);
+layerId = "B67F0F2D-EC95-4CB8-966E-23AE86958A69";
+width = 4800;
+},
+{
+components = (
+{
+name = _part.percent_bookend_left;
+},
+{
+name = i;
+transform = "{1, 0, 0, 1, 1200, 0}";
+},
+{
+name = n;
+transform = "{1, 0, 0, 1, 2400, 0}";
+},
+{
+name = _part.percent_bookend_right;
+transform = "{1, 0, 0, 1, 3600, 0}";
+}
+);
+layerId = "4B7A3BAF-EAD8-4024-9BEA-BB1DE86CFCFA";
+width = 4800;
+}
+);
+},
+{
 glyphname = florin;
 lastChange = "2020-04-05 22:00:23 +0000";
 layers = (
@@ -128977,7 +129027,7 @@ width = 1200;
 {
 color = 3;
 glyphname = _part.percent_bookend_left;
-lastChange = "2021-05-25 14:12:13 +0000";
+lastChange = "2021-05-25 15:47:33 +0000";
 layers = (
 {
 guideLines = (
@@ -129008,78 +129058,78 @@ paths = (
 {
 closed = 1;
 nodes = (
-"850 143 LINE",
-"850 922 LINE",
-"750 922 LINE",
-"750 143 LINE"
+"1150 143 LINE",
+"1150 922 LINE",
+"1050 922 LINE",
+"1050 143 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"350 643 OFFCURVE",
-"427 562 OFFCURVE",
-"527 562 CURVE SMOOTH",
-"633 562 OFFCURVE",
-"707 643 OFFCURVE",
-"707 744 CURVE SMOOTH",
-"707 841 OFFCURVE",
-"633 920 OFFCURVE",
-"527 920 CURVE SMOOTH",
-"427 920 OFFCURVE",
-"350 841 OFFCURVE",
-"350 744 CURVE SMOOTH"
+"650 643 OFFCURVE",
+"727 562 OFFCURVE",
+"827 562 CURVE SMOOTH",
+"933 562 OFFCURVE",
+"1007 643 OFFCURVE",
+"1007 744 CURVE SMOOTH",
+"1007 841 OFFCURVE",
+"933 920 OFFCURVE",
+"827 920 CURVE SMOOTH",
+"727 920 OFFCURVE",
+"650 841 OFFCURVE",
+"650 744 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"414 805 OFFCURVE",
-"463 856 OFFCURVE",
-"527 856 CURVE SMOOTH",
-"595 856 OFFCURVE",
-"642 805 OFFCURVE",
-"642 743 CURVE SMOOTH",
-"642 678 OFFCURVE",
-"595 627 OFFCURVE",
-"527 627 CURVE SMOOTH",
-"463 627 OFFCURVE",
-"414 678 OFFCURVE",
-"414 743 CURVE SMOOTH"
+"714 805 OFFCURVE",
+"763 856 OFFCURVE",
+"827 856 CURVE SMOOTH",
+"895 856 OFFCURVE",
+"942 805 OFFCURVE",
+"942 743 CURVE SMOOTH",
+"942 678 OFFCURVE",
+"895 627 OFFCURVE",
+"827 627 CURVE SMOOTH",
+"763 627 OFFCURVE",
+"714 678 OFFCURVE",
+"714 743 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"350 229 OFFCURVE",
-"427 148 OFFCURVE",
-"527 148 CURVE SMOOTH",
-"633 148 OFFCURVE",
-"707 229 OFFCURVE",
-"707 330 CURVE SMOOTH",
-"707 427 OFFCURVE",
-"633 506 OFFCURVE",
-"527 506 CURVE SMOOTH",
-"427 506 OFFCURVE",
-"350 427 OFFCURVE",
-"350 330 CURVE SMOOTH"
+"650 229 OFFCURVE",
+"727 148 OFFCURVE",
+"827 148 CURVE SMOOTH",
+"933 148 OFFCURVE",
+"1007 229 OFFCURVE",
+"1007 330 CURVE SMOOTH",
+"1007 427 OFFCURVE",
+"933 506 OFFCURVE",
+"827 506 CURVE SMOOTH",
+"727 506 OFFCURVE",
+"650 427 OFFCURVE",
+"650 330 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"414 391 OFFCURVE",
-"463 442 OFFCURVE",
-"527 442 CURVE SMOOTH",
-"595 442 OFFCURVE",
-"642 391 OFFCURVE",
-"642 329 CURVE SMOOTH",
-"642 264 OFFCURVE",
-"595 213 OFFCURVE",
-"527 213 CURVE SMOOTH",
-"463 213 OFFCURVE",
-"414 264 OFFCURVE",
-"414 329 CURVE SMOOTH"
+"714 391 OFFCURVE",
+"763 442 OFFCURVE",
+"827 442 CURVE SMOOTH",
+"895 442 OFFCURVE",
+"942 391 OFFCURVE",
+"942 329 CURVE SMOOTH",
+"942 264 OFFCURVE",
+"895 213 OFFCURVE",
+"827 213 CURVE SMOOTH",
+"763 213 OFFCURVE",
+"714 264 OFFCURVE",
+"714 329 CURVE SMOOTH"
 );
 }
 );
@@ -129091,78 +129141,78 @@ paths = (
 {
 closed = 1;
 nodes = (
-"850 143 LINE",
-"850 922 LINE",
-"750 922 LINE",
-"750 143 LINE"
+"1150 143 LINE",
+"1150 922 LINE",
+"1050 922 LINE",
+"1050 143 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"350 643 OFFCURVE",
-"427 562 OFFCURVE",
-"527 562 CURVE SMOOTH",
-"633 562 OFFCURVE",
-"707 643 OFFCURVE",
-"707 744 CURVE SMOOTH",
-"707 841 OFFCURVE",
-"633 920 OFFCURVE",
-"527 920 CURVE SMOOTH",
-"427 920 OFFCURVE",
-"350 841 OFFCURVE",
-"350 744 CURVE SMOOTH"
+"650 643 OFFCURVE",
+"727 562 OFFCURVE",
+"827 562 CURVE SMOOTH",
+"933 562 OFFCURVE",
+"1007 643 OFFCURVE",
+"1007 744 CURVE SMOOTH",
+"1007 841 OFFCURVE",
+"933 920 OFFCURVE",
+"827 920 CURVE SMOOTH",
+"727 920 OFFCURVE",
+"650 841 OFFCURVE",
+"650 744 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"414 805 OFFCURVE",
-"463 856 OFFCURVE",
-"527 856 CURVE SMOOTH",
-"595 856 OFFCURVE",
-"642 805 OFFCURVE",
-"642 743 CURVE SMOOTH",
-"642 678 OFFCURVE",
-"595 627 OFFCURVE",
-"527 627 CURVE SMOOTH",
-"463 627 OFFCURVE",
-"414 678 OFFCURVE",
-"414 743 CURVE SMOOTH"
+"714 805 OFFCURVE",
+"763 856 OFFCURVE",
+"827 856 CURVE SMOOTH",
+"895 856 OFFCURVE",
+"942 805 OFFCURVE",
+"942 743 CURVE SMOOTH",
+"942 678 OFFCURVE",
+"895 627 OFFCURVE",
+"827 627 CURVE SMOOTH",
+"763 627 OFFCURVE",
+"714 678 OFFCURVE",
+"714 743 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"350 229 OFFCURVE",
-"427 148 OFFCURVE",
-"527 148 CURVE SMOOTH",
-"633 148 OFFCURVE",
-"707 229 OFFCURVE",
-"707 330 CURVE SMOOTH",
-"707 427 OFFCURVE",
-"633 506 OFFCURVE",
-"527 506 CURVE SMOOTH",
-"427 506 OFFCURVE",
-"350 427 OFFCURVE",
-"350 330 CURVE SMOOTH"
+"650 229 OFFCURVE",
+"727 148 OFFCURVE",
+"827 148 CURVE SMOOTH",
+"933 148 OFFCURVE",
+"1007 229 OFFCURVE",
+"1007 330 CURVE SMOOTH",
+"1007 427 OFFCURVE",
+"933 506 OFFCURVE",
+"827 506 CURVE SMOOTH",
+"727 506 OFFCURVE",
+"650 427 OFFCURVE",
+"650 330 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"414 391 OFFCURVE",
-"463 442 OFFCURVE",
-"527 442 CURVE SMOOTH",
-"595 442 OFFCURVE",
-"642 391 OFFCURVE",
-"642 329 CURVE SMOOTH",
-"642 264 OFFCURVE",
-"595 213 OFFCURVE",
-"527 213 CURVE SMOOTH",
-"463 213 OFFCURVE",
-"414 264 OFFCURVE",
-"414 329 CURVE SMOOTH"
+"714 391 OFFCURVE",
+"763 442 OFFCURVE",
+"827 442 CURVE SMOOTH",
+"895 442 OFFCURVE",
+"942 391 OFFCURVE",
+"942 329 CURVE SMOOTH",
+"942 264 OFFCURVE",
+"895 213 OFFCURVE",
+"827 213 CURVE SMOOTH",
+"763 213 OFFCURVE",
+"714 264 OFFCURVE",
+"714 329 CURVE SMOOTH"
 );
 }
 );
@@ -129173,7 +129223,7 @@ width = 1200;
 {
 color = 3;
 glyphname = _part.percent_bookend_right;
-lastChange = "2021-05-25 14:10:06 +0000";
+lastChange = "2021-05-25 15:47:47 +0000";
 layers = (
 {
 hints = (
@@ -129187,78 +129237,78 @@ paths = (
 {
 closed = 1;
 nodes = (
-"450 922 LINE",
-"350 922 LINE",
-"350 143 LINE",
-"450 143 LINE"
+"150 922 LINE",
+"50 922 LINE",
+"50 143 LINE",
+"150 143 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"850 841 OFFCURVE",
-"773 920 OFFCURVE",
-"673 920 CURVE SMOOTH",
-"567 920 OFFCURVE",
-"493 841 OFFCURVE",
-"493 744 CURVE SMOOTH",
-"493 643 OFFCURVE",
-"567 562 OFFCURVE",
-"673 562 CURVE SMOOTH",
-"773 562 OFFCURVE",
-"850 643 OFFCURVE",
-"850 744 CURVE SMOOTH"
+"550 841 OFFCURVE",
+"473 920 OFFCURVE",
+"373 920 CURVE SMOOTH",
+"267 920 OFFCURVE",
+"193 841 OFFCURVE",
+"193 744 CURVE SMOOTH",
+"193 643 OFFCURVE",
+"267 562 OFFCURVE",
+"373 562 CURVE SMOOTH",
+"473 562 OFFCURVE",
+"550 643 OFFCURVE",
+"550 744 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"786 678 OFFCURVE",
-"737 627 OFFCURVE",
-"673 627 CURVE SMOOTH",
-"605 627 OFFCURVE",
-"558 678 OFFCURVE",
-"558 743 CURVE SMOOTH",
-"558 805 OFFCURVE",
-"605 856 OFFCURVE",
-"673 856 CURVE SMOOTH",
-"737 856 OFFCURVE",
-"786 805 OFFCURVE",
-"786 743 CURVE SMOOTH"
+"486 678 OFFCURVE",
+"437 627 OFFCURVE",
+"373 627 CURVE SMOOTH",
+"305 627 OFFCURVE",
+"258 678 OFFCURVE",
+"258 743 CURVE SMOOTH",
+"258 805 OFFCURVE",
+"305 856 OFFCURVE",
+"373 856 CURVE SMOOTH",
+"437 856 OFFCURVE",
+"486 805 OFFCURVE",
+"486 743 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"850 427 OFFCURVE",
-"773 506 OFFCURVE",
-"673 506 CURVE SMOOTH",
-"567 506 OFFCURVE",
-"493 427 OFFCURVE",
-"493 330 CURVE SMOOTH",
-"493 229 OFFCURVE",
-"567 148 OFFCURVE",
-"673 148 CURVE SMOOTH",
-"773 148 OFFCURVE",
-"850 229 OFFCURVE",
-"850 330 CURVE SMOOTH"
+"550 427 OFFCURVE",
+"473 506 OFFCURVE",
+"373 506 CURVE SMOOTH",
+"267 506 OFFCURVE",
+"193 427 OFFCURVE",
+"193 330 CURVE SMOOTH",
+"193 229 OFFCURVE",
+"267 148 OFFCURVE",
+"373 148 CURVE SMOOTH",
+"473 148 OFFCURVE",
+"550 229 OFFCURVE",
+"550 330 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"786 264 OFFCURVE",
-"737 213 OFFCURVE",
-"673 213 CURVE SMOOTH",
-"605 213 OFFCURVE",
-"558 264 OFFCURVE",
-"558 329 CURVE SMOOTH",
-"558 391 OFFCURVE",
-"605 442 OFFCURVE",
-"673 442 CURVE SMOOTH",
-"737 442 OFFCURVE",
-"786 391 OFFCURVE",
-"786 329 CURVE SMOOTH"
+"486 264 OFFCURVE",
+"437 213 OFFCURVE",
+"373 213 CURVE SMOOTH",
+"305 213 OFFCURVE",
+"258 264 OFFCURVE",
+"258 329 CURVE SMOOTH",
+"258 391 OFFCURVE",
+"305 442 OFFCURVE",
+"373 442 CURVE SMOOTH",
+"437 442 OFFCURVE",
+"486 391 OFFCURVE",
+"486 329 CURVE SMOOTH"
 );
 }
 );
@@ -129276,78 +129326,78 @@ paths = (
 {
 closed = 1;
 nodes = (
-"450 922 LINE",
-"350 922 LINE",
-"350 143 LINE",
-"450 143 LINE"
+"150 922 LINE",
+"50 922 LINE",
+"50 143 LINE",
+"150 143 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"850 841 OFFCURVE",
-"773 920 OFFCURVE",
-"673 920 CURVE SMOOTH",
-"567 920 OFFCURVE",
-"493 841 OFFCURVE",
-"493 744 CURVE SMOOTH",
-"493 643 OFFCURVE",
-"567 562 OFFCURVE",
-"673 562 CURVE SMOOTH",
-"773 562 OFFCURVE",
-"850 643 OFFCURVE",
-"850 744 CURVE SMOOTH"
+"550 841 OFFCURVE",
+"473 920 OFFCURVE",
+"373 920 CURVE SMOOTH",
+"267 920 OFFCURVE",
+"193 841 OFFCURVE",
+"193 744 CURVE SMOOTH",
+"193 643 OFFCURVE",
+"267 562 OFFCURVE",
+"373 562 CURVE SMOOTH",
+"473 562 OFFCURVE",
+"550 643 OFFCURVE",
+"550 744 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"786 678 OFFCURVE",
-"737 627 OFFCURVE",
-"673 627 CURVE SMOOTH",
-"605 627 OFFCURVE",
-"558 678 OFFCURVE",
-"558 743 CURVE SMOOTH",
-"558 805 OFFCURVE",
-"605 856 OFFCURVE",
-"673 856 CURVE SMOOTH",
-"737 856 OFFCURVE",
-"786 805 OFFCURVE",
-"786 743 CURVE SMOOTH"
+"486 678 OFFCURVE",
+"437 627 OFFCURVE",
+"373 627 CURVE SMOOTH",
+"305 627 OFFCURVE",
+"258 678 OFFCURVE",
+"258 743 CURVE SMOOTH",
+"258 805 OFFCURVE",
+"305 856 OFFCURVE",
+"373 856 CURVE SMOOTH",
+"437 856 OFFCURVE",
+"486 805 OFFCURVE",
+"486 743 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"850 427 OFFCURVE",
-"773 506 OFFCURVE",
-"673 506 CURVE SMOOTH",
-"567 506 OFFCURVE",
-"493 427 OFFCURVE",
-"493 330 CURVE SMOOTH",
-"493 229 OFFCURVE",
-"567 148 OFFCURVE",
-"673 148 CURVE SMOOTH",
-"773 148 OFFCURVE",
-"850 229 OFFCURVE",
-"850 330 CURVE SMOOTH"
+"550 427 OFFCURVE",
+"473 506 OFFCURVE",
+"373 506 CURVE SMOOTH",
+"267 506 OFFCURVE",
+"193 427 OFFCURVE",
+"193 330 CURVE SMOOTH",
+"193 229 OFFCURVE",
+"267 148 OFFCURVE",
+"373 148 CURVE SMOOTH",
+"473 148 OFFCURVE",
+"550 229 OFFCURVE",
+"550 330 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"786 264 OFFCURVE",
-"737 213 OFFCURVE",
-"673 213 CURVE SMOOTH",
-"605 213 OFFCURVE",
-"558 264 OFFCURVE",
-"558 329 CURVE SMOOTH",
-"558 391 OFFCURVE",
-"605 442 OFFCURVE",
-"673 442 CURVE SMOOTH",
-"737 442 OFFCURVE",
-"786 391 OFFCURVE",
-"786 329 CURVE SMOOTH"
+"486 264 OFFCURVE",
+"437 213 OFFCURVE",
+"373 213 CURVE SMOOTH",
+"305 213 OFFCURVE",
+"258 264 OFFCURVE",
+"258 329 CURVE SMOOTH",
+"258 391 OFFCURVE",
+"305 442 OFFCURVE",
+"373 442 CURVE SMOOTH",
+"437 442 OFFCURVE",
+"486 391 OFFCURVE",
+"486 329 CURVE SMOOTH"
 );
 }
 );
