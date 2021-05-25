@@ -75430,7 +75430,7 @@ width = 1200;
 {
 color = 3;
 glyphname = percent_i_n_percent.liga;
-lastChange = "2021-05-25 15:55:55 +0000";
+lastChange = "2021-05-25 16:06:05 +0000";
 layers = (
 {
 components = (
@@ -75460,23 +75460,41 @@ width = 1200;
 {
 components = (
 {
+alignment = -1;
 name = _part.percent_bookend_left;
+transform = "{1, 0, 0, 1, -3600, 0}";
 },
 {
+alignment = -1;
 name = i;
-transform = "{1, 0, 0, 1, 1200, 0}";
+transform = "{1, 0, 0, 1, -2400, 0}";
 },
 {
+alignment = -1;
 name = n;
-transform = "{1, 0, 0, 1, 2400, 0}";
+transform = "{1, 0, 0, 1, -1200, 0}";
 },
 {
+alignment = -1;
 name = _part.percent_bookend_right;
-transform = "{1, 0, 0, 1, 3600, 0}";
+}
+);
+guideLines = (
+{
+angle = 270;
+position = "{-1200, -386}";
+},
+{
+angle = 270;
+position = "{-2400, -386}";
+},
+{
+angle = 270;
+position = "{-3600, -386}";
 }
 );
 layerId = "4B7A3BAF-EAD8-4024-9BEA-BB1DE86CFCFA";
-width = 4800;
+width = 1200;
 }
 );
 },
