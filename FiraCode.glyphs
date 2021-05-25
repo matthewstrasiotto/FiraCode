@@ -3,9 +3,9 @@
 DisplayStrings = (
 "/less_bar_greater.liga",
 "/_part.percent_bookend_left",
-"/percent_greater_percent.liga",
 "/_part.percent_bookend_right",
-"/percent_less_greater_percent.liga"
+"/percent_less_greater_percent.liga",
+"/percent_greater_percent.liga"
 );
 classes = (
 {
@@ -198,7 +198,7 @@ name = case;
 },
 {
 automatic = 1;
-code = "lookupflag IgnoreMarks;\012sub bar bar bar greater by bar_bar_bar_greater.liga;\012sub less bar bar bar by less_bar_bar_bar.liga;\012sub less exclam hyphen hyphen by less_exclam_hyphen_hyphen.liga;\012sub asciitilde asciitilde greater by asciitilde_asciitilde_greater.liga;\012sub asterisk asterisk asterisk by asterisk_asterisk_asterisk.liga;\012sub bar bar bar by bar_bar_bar.liga;\012sub bar bar greater by bar_bar_greater.liga;\012sub colon colon colon by colon_colon_colon.liga;\012sub colon colon equal by colon_colon_equal.liga;\012sub equal equal equal by equal_equal_equal.liga;\012sub exclam equal equal by exclam_equal_equal.liga;\012sub exclam exclam period by exclam_exclam_period.liga;\012sub greater greater greater by greater_greater_greater.liga;\012sub less asciitilde asciitilde by less_asciitilde_asciitilde.liga;\012sub less asciitilde greater by less_asciitilde_greater.liga;\012sub less asterisk greater by less_asterisk_greater.liga;\012sub less bar bar by less_bar_bar.liga;\012sub less bar greater by less_bar_greater.liga;\012sub less dollar greater by less_dollar_greater.liga;\012sub less less less by less_less_less.liga;\012sub less plus greater by less_plus_greater.liga;\012sub less slash greater by less_slash_greater.liga;\012sub numbersign underscore parenleft by numbersign_underscore_parenleft.liga;\012sub percent greater percent by percent_greater_percent.liga;\012sub period period equal by period_period_equal.liga;\012sub period period less by period_period_less.liga;\012sub period period period by period_period_period.liga;\012sub plus plus plus by plus_plus_plus.liga;\012sub slash slash slash by slash_slash_slash.liga;\012sub w w w by w_w_w.liga;\012sub ampersand ampersand by ampersand_ampersand.liga;\012sub asciicircum equal by asciicircum_equal.liga;\012sub asciitilde asciitilde by asciitilde_asciitilde.liga;\012sub asciitilde at by asciitilde_at.liga;\012sub asciitilde greater by asciitilde_greater.liga;\012sub asciitilde hyphen by asciitilde_hyphen.liga;\012sub asterisk asterisk by asterisk_asterisk.liga;\012sub asterisk greater by asterisk_greater.liga;\012sub asterisk slash by asterisk_slash.liga;\012sub backslash slash by backslash_slash.liga;\012sub bar bar by bar_bar.liga;\012sub bar braceright by bar_braceright.liga;\012sub bar bracketright by bar_bracketright.liga;\012sub bar greater by bar_greater.liga;\012sub braceleft bar by braceleft_bar.liga;\012sub bracketleft bar by bracketleft_bar.liga;\012sub bracketright numbersign by bracketright_numbersign.liga;\012sub colon colon by colon_colon.liga;\012sub colon equal by colon_equal.liga;\012sub dollar greater by dollar_greater.liga;\012sub equal equal by equal_equal.liga;\012sub exclam equal by exclam_equal.liga;\012sub exclam exclam by exclam_exclam.liga;\012sub greater equal by greater_equal.liga;\012sub greater greater by greater_greater.liga;\012sub hyphen asciitilde by hyphen_asciitilde.liga;\012sub hyphen hyphen by hyphen_hyphen.liga;\012sub less asciitilde by less_asciitilde.liga;\012sub less asterisk by less_asterisk.liga;\012sub less bar by less_bar.liga;\012sub less dollar by less_dollar.liga;\012sub less equal by less_equal.liga;\012sub less greater by less_greater.liga;\012sub less less by less_less.liga;\012sub less plus by less_plus.liga;\012sub less slash by less_slash.liga;\012sub numbersign braceleft by numbersign_braceleft.liga;\012sub numbersign bracketleft by numbersign_bracketleft.liga;\012sub numbersign colon by numbersign_colon.liga;\012sub numbersign equal by numbersign_equal.liga;\012sub numbersign exclam by numbersign_exclam.liga;\012sub numbersign parenleft by numbersign_parenleft.liga;\012sub numbersign question by numbersign_question.liga;\012sub numbersign underscore by numbersign_underscore.liga;\012sub percent percent by percent_percent.liga;\012sub period equal by period_equal.liga;\012sub period period by period_period.liga;\012sub period question by period_question.liga;\012sub plus greater by plus_greater.liga;\012sub plus plus by plus_plus.liga;\012sub question equal by question_equal.liga;\012sub question period by question_period.liga;\012sub question question by question_question.liga;\012sub semicolon semicolon by semicolon_semicolon.liga;\012sub slash asterisk by slash_asterisk.liga;\012sub slash backslash by slash_backslash.liga;\012sub slash greater by slash_greater.liga;\012sub slash slash by slash_slash.liga;\012";
+code = "lookupflag IgnoreMarks;\012sub bar bar bar greater by bar_bar_bar_greater.liga;\012sub less bar bar bar by less_bar_bar_bar.liga;\012sub less exclam hyphen hyphen by less_exclam_hyphen_hyphen.liga;\012sub percent less greater percent by percent_less_greater_percent.liga;\012sub asciitilde asciitilde greater by asciitilde_asciitilde_greater.liga;\012sub asterisk asterisk asterisk by asterisk_asterisk_asterisk.liga;\012sub bar bar bar by bar_bar_bar.liga;\012sub bar bar greater by bar_bar_greater.liga;\012sub colon colon colon by colon_colon_colon.liga;\012sub colon colon equal by colon_colon_equal.liga;\012sub equal equal equal by equal_equal_equal.liga;\012sub exclam equal equal by exclam_equal_equal.liga;\012sub exclam exclam period by exclam_exclam_period.liga;\012sub greater greater greater by greater_greater_greater.liga;\012sub less asciitilde asciitilde by less_asciitilde_asciitilde.liga;\012sub less asciitilde greater by less_asciitilde_greater.liga;\012sub less asterisk greater by less_asterisk_greater.liga;\012sub less bar bar by less_bar_bar.liga;\012sub less bar greater by less_bar_greater.liga;\012sub less dollar greater by less_dollar_greater.liga;\012sub less less less by less_less_less.liga;\012sub less plus greater by less_plus_greater.liga;\012sub less slash greater by less_slash_greater.liga;\012sub numbersign underscore parenleft by numbersign_underscore_parenleft.liga;\012sub percent greater percent by percent_greater_percent.liga;\012sub period period equal by period_period_equal.liga;\012sub period period less by period_period_less.liga;\012sub period period period by period_period_period.liga;\012sub plus plus plus by plus_plus_plus.liga;\012sub slash slash slash by slash_slash_slash.liga;\012sub w w w by w_w_w.liga;\012sub ampersand ampersand by ampersand_ampersand.liga;\012sub asciicircum equal by asciicircum_equal.liga;\012sub asciitilde asciitilde by asciitilde_asciitilde.liga;\012sub asciitilde at by asciitilde_at.liga;\012sub asciitilde greater by asciitilde_greater.liga;\012sub asciitilde hyphen by asciitilde_hyphen.liga;\012sub asterisk asterisk by asterisk_asterisk.liga;\012sub asterisk greater by asterisk_greater.liga;\012sub asterisk slash by asterisk_slash.liga;\012sub backslash slash by backslash_slash.liga;\012sub bar bar by bar_bar.liga;\012sub bar braceright by bar_braceright.liga;\012sub bar bracketright by bar_bracketright.liga;\012sub bar greater by bar_greater.liga;\012sub braceleft bar by braceleft_bar.liga;\012sub bracketleft bar by bracketleft_bar.liga;\012sub bracketright numbersign by bracketright_numbersign.liga;\012sub colon colon by colon_colon.liga;\012sub colon equal by colon_equal.liga;\012sub dollar greater by dollar_greater.liga;\012sub equal equal by equal_equal.liga;\012sub exclam equal by exclam_equal.liga;\012sub exclam exclam by exclam_exclam.liga;\012sub greater equal by greater_equal.liga;\012sub greater greater by greater_greater.liga;\012sub hyphen asciitilde by hyphen_asciitilde.liga;\012sub hyphen hyphen by hyphen_hyphen.liga;\012sub less asciitilde by less_asciitilde.liga;\012sub less asterisk by less_asterisk.liga;\012sub less bar by less_bar.liga;\012sub less dollar by less_dollar.liga;\012sub less equal by less_equal.liga;\012sub less greater by less_greater.liga;\012sub less less by less_less.liga;\012sub less plus by less_plus.liga;\012sub less slash by less_slash.liga;\012sub numbersign braceleft by numbersign_braceleft.liga;\012sub numbersign bracketleft by numbersign_bracketleft.liga;\012sub numbersign colon by numbersign_colon.liga;\012sub numbersign equal by numbersign_equal.liga;\012sub numbersign exclam by numbersign_exclam.liga;\012sub numbersign parenleft by numbersign_parenleft.liga;\012sub numbersign question by numbersign_question.liga;\012sub numbersign underscore by numbersign_underscore.liga;\012sub percent percent by percent_percent.liga;\012sub period equal by period_equal.liga;\012sub period period by period_period.liga;\012sub period question by period_question.liga;\012sub plus greater by plus_greater.liga;\012sub plus plus by plus_plus.liga;\012sub question equal by question_equal.liga;\012sub question period by question_period.liga;\012sub question question by question_question.liga;\012sub semicolon semicolon by semicolon_semicolon.liga;\012sub slash asterisk by slash_asterisk.liga;\012sub slash backslash by slash_backslash.liga;\012sub slash greater by slash_greater.liga;\012sub slash slash by slash_slash.liga;\012";
 disabled = 1;
 name = liga;
 },
@@ -86431,22 +86431,22 @@ width = 1200;
 {
 color = 3;
 glyphname = percent_greater_percent.liga;
-lastChange = "2021-05-25 14:13:12 +0000";
+lastChange = "2021-05-25 14:31:22 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = _part.greater2;
-transform = "{2, 0, 0, 1, -1440, 0}";
+transform = "{1.4, 0, 0, 1, -1162, 0}";
 },
 {
 name = _part.percent_bookend_left;
-transform = "{1, 0, 0, 1, -2508, 92}";
+transform = "{1, 0, 0, 1, -2208, 92}";
 },
 {
 name = _part.percent_bookend_right;
-transform = "{1, 0, 0, 1, 21, 91}";
+transform = "{1, 0, 0, 1, -168, 91}";
 }
 );
 guideLines = (
@@ -86456,6 +86456,10 @@ position = "{-2893, 625}";
 {
 angle = 90;
 position = "{-2400, 1652}";
+},
+{
+angle = 90;
+position = "{-1200, 1652}";
 }
 );
 layerId = "B67F0F2D-EC95-4CB8-966E-23AE86958A69";
@@ -86466,20 +86470,28 @@ components = (
 {
 alignment = -1;
 name = _part.greater2;
-transform = "{2, 0, 0, 1, -1408, 0}";
+transform = "{1.4, 0, 0, 1, -1166, 0}";
 },
 {
 name = _part.percent_bookend_left;
-transform = "{1, 0, 0, 1, -2637, 96}";
+transform = "{1, 0, 0, 1, -2208, 96}";
 },
 {
 name = _part.percent_bookend_right;
-transform = "{1, 0, 0, 1, 244, 97}";
+transform = "{1, 0, 0, 1, -168, 92}";
 }
 );
 guideLines = (
 {
 position = "{-230, 628}";
+},
+{
+angle = 90;
+position = "{-1200, 1563}";
+},
+{
+angle = 90;
+position = "{-2400, 1563}";
 }
 );
 layerId = "4B7A3BAF-EAD8-4024-9BEA-BB1DE86CFCFA";
@@ -86490,7 +86502,7 @@ width = 1200;
 {
 color = 3;
 glyphname = percent_less_greater_percent.liga;
-lastChange = "2021-05-25 14:14:04 +0000";
+lastChange = "2021-05-25 14:29:36 +0000";
 layers = (
 {
 components = (
@@ -86535,11 +86547,16 @@ transform = "{1.25, 0, 0, 1, -1203, 0}";
 },
 {
 name = _part.percent_bookend_left;
-transform = "{1, 0, 0, 1, -3400, 0}";
+transform = "{1, 0, 0, 1, -3400, 92}";
 },
 {
 name = _part.percent_bookend_right;
-transform = "{1, 0, 0, 1, -200, 0}";
+transform = "{1, 0, 0, 1, -200, 93}";
+}
+);
+guideLines = (
+{
+position = "{-342, 628}";
 }
 );
 layerId = "4B7A3BAF-EAD8-4024-9BEA-BB1DE86CFCFA";
