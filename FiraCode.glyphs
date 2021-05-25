@@ -1,8 +1,8 @@
 {
 .appVersion = "3058";
 DisplayStrings = (
-/percent_greater_percent.liga,
-/less_bar_greater.liga
+"/less_bar_greater.liga",
+"/percent_greater_percent.liga"
 );
 classes = (
 {
@@ -86428,7 +86428,7 @@ width = 1200;
 {
 color = 3;
 glyphname = percent_greater_percent.liga;
-lastChange = "2021-05-25 07:44:47 +0000";
+lastChange = "2021-05-25 08:30:09 +0000";
 layers = (
 {
 components = (
@@ -86453,7 +86453,7 @@ position = "{-415, 625}";
 }
 );
 layerId = "B67F0F2D-EC95-4CB8-966E-23AE86958A69";
-width = 3600;
+width = 1200;
 },
 {
 components = (
@@ -86473,7 +86473,7 @@ transform = "{2.5, 0, 0, 1, 792, 1}";
 }
 );
 layerId = "4B7A3BAF-EAD8-4024-9BEA-BB1DE86CFCFA";
-width = 3600;
+width = 1200;
 }
 );
 },
