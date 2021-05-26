@@ -1,12 +1,12 @@
 {
 .appVersion = "3058";
 DisplayStrings = (
-"/less_bar_greater.liga",
-"/_part.percent_bookend_left",
-"/_part.percent_bookend_right",
-"/percent_less_greater_percent.liga",
-"/percent_greater_percent.liga",
-"/percent_i_n_percent.liga"
+/less_bar_greater.liga,
+/_part.percent_bookend_left,
+/_part.percent_bookend_right,
+/percent_less_greater_percent.liga,
+/percent_greater_percent.liga,
+/percent_i_n_percent.liga
 );
 classes = (
 {
